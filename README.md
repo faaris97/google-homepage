@@ -1,2 +1,2 @@
 # google-homepage
-the odin project html css project
+building the google homepage (odin project)
