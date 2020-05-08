@@ -1,0 +1,97 @@
+.google-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    transform: scale(0.5)
+    }
+  .search-bar:hover{
+    border-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);;
+    border-radius: 50px;
+  }
+  .search-bar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  input {
+    border: 1px solid;
+    border-bottom-color: rgb(223, 225, 229);
+      border-left-color: rgb(223, 225, 229);
+    border-right-color: rgb(223, 225, 229);
+    border-top-color:rgb(223, 225, 229);
+    border-radius: 50px;
+    height: 40px;
+    width: 575px;
+    padding: 0 10px;
+  }
+  
+  .searchbutton {
+    color: rgb(95, 99, 104);
+    height: 36px;
+    border-radius: 5px;
+    width: 127px;
+    background-color: rgb(248, 248, 248);
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 40px;
+    padding: 0 10px 0 10px;
+    position: absolute;
+    left: 400px;
+  }
+  .iflbutton{
+    color: rgb(95, 99, 104);
+    height: 36px;
+    border-radius: 5px;
+    width: 143px;
+    background-color: rgb(248, 248, 248);
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 40px;
+    padding: 0 10px 0 10px;
+    position: absolute;
+    left: 537px;
+    text-align: center;
+    -webkit-appearance: none;
+  }
+  .search-bar i{
+    position: absolute;
+    left: 20px;
+    top:10px;
+    color: #CFCFCF;
+  }
+  .audio-icon {
+    position:absolute;
+    left: 800px;
+    float:right;
+    margin-right:240px;
+    top: 345px;
+    transform: scale(0.6);
+    
+  }
+  .footer1{
+    position: absolute;
+    bottom:50px;
+    color: rgb(95, 99, 104);
+    background-color: rgb(248, 248, 248);
+    width:100%;
+    padding-left: 20px;
+   
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   <i class="fa fa-search" aria-hidden="true"></i>
+          <input type="text" name="searchicon" placeholder="">
+           <i class="fas fa-microphone"></i>
+  
+  
