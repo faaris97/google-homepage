@@ -1,5 +1,11 @@
 /*stylesheet*/
 
+body{
+  width:1150px
+  margin: 0;
+  padding: 0;
+  
+}
 .google-logo {
   display: flex;
   justify-content: center;
@@ -47,7 +53,7 @@ input:focus{
   margin-top: 60px;
   padding: 0 10px 0 10px;
   position: absolute;
-  left: 400px;
+  left: 450px;
 }
 .iflbutton{
   color: rgb(95, 99, 104);
@@ -60,7 +66,7 @@ input:focus{
   margin-top: 60px;
   padding: 0 10px 0 10px;
   position: absolute;
-  left: 537px;
+  left: 587px;
   text-align: center;
   -webkit-appearance: none;
 }
@@ -176,7 +182,7 @@ input:focus{
 .gmail{
   position: fixed;
   top: 10px;
-  left: 848px;
+  left: 915px;
   width: 100%;
   color: rgb(34, 34, 34);
   padding-top:14px;
@@ -189,7 +195,7 @@ input:focus{
 .images{
   position: fixed;
   top: 10px;
-  left: 880px;
+  left: 950px;
   width: 100%;
   color: rgb(34, 34, 34);
   padding-top:14px;
@@ -210,13 +216,13 @@ input:focus{
   margin-top: -350px;
   padding: 5px 10px 5px 10px;
   position: absolute;
-  left: 1000px;
+  left: 1075px;
   
   
 }
 .apps{
   position: absolute;
-  left: 960px;
+  left: 1025px;
   top: 15px;
 }
 
