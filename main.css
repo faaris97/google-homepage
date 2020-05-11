@@ -1,16 +1,20 @@
 /*stylesheet*/
 
 body{
-  width:1150px;
-  margin: 0;
+  display: block;
+  width: 1440px;
+  height: 470px;
+  margin: 0 auto;
   padding: 0;
   
 }
 .google-logo {
   display: flex;
+  margin-top: 180px;
+  margin-right: 275px;
   justify-content: center;
   align-items: center;
-  margin-top: 180px;
+  margin-top: 0 auto;
   transform: scale(0.5)
   }
 .search-bar:hover{
@@ -182,7 +186,7 @@ input:focus{
 .gmail{
   position: fixed;
   top: 10px;
-  left: 915px;
+  left: 940px;
   width: 100%;
   color: rgb(34, 34, 34);
   padding-top:14px;
@@ -195,7 +199,7 @@ input:focus{
 .images{
   position: fixed;
   top: 10px;
-  left: 950px;
+  left: 975px;
   width: 100%;
   color: rgb(34, 34, 34);
   padding-top:14px;
@@ -216,16 +220,16 @@ input:focus{
   margin-top: -350px;
   padding: 5px 10px 5px 10px;
   position: absolute;
-  left: 1075px;
+  left: 1100px;
   
   
 }
 .apps{
   position: absolute;
-  left: 1025px;
+  left: 1050px;
   top: 15px;
 }
 
 
-  
+
   
