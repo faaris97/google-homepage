@@ -4,8 +4,8 @@ body {
   height: auto;
   width: 1440px;
   position: sticky;
-  top:0px;
-  left:40px;
+  top: 0px;
+  left:0px;
   right:0px;
   bottom:0px;
 }
@@ -23,8 +23,16 @@ li{
 font-family: airal, sans-serif;
 font-size: 13px;
 color: rgb(34, 34, 34);
-display: inline;
 }
+.rightnav1{
+  position: fixed;
+ left: 1225px;
+ top: 25px;
+font-family: airal, sans-serif;
+font-size: 13px;
+color: rgb(34, 34, 34);
+}
+
 .leftnav{
   position: fixed;
   top: 25px;
